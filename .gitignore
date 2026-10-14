@@ -20,3 +20,9 @@ credentials*
 .wired.json
 总线.jsonl
 总线.md
+
+data/raw/
+data/processed/
+output/
+ml_extension/data/
+ml_extension/models/*.pkl
