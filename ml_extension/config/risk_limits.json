@@ -1,0 +1,12 @@
+{
+  "risk_limits": {
+    "portfolio_volatility": 0.20,
+    "single_stock_weight": 0.10,
+    "sector_weight": 0.30,
+    "portfolio_var_95": 0.03,
+    "max_drawdown": 0.15
+  },
+  "confidence": 0.95,
+  "window": 250,
+  "description": "组合年化波动率上限20%；单票最大仓位10%；前3大行业合计仓位30%；日频95% VaR上限3%；历史最大回撤警戒线15%"
+}
